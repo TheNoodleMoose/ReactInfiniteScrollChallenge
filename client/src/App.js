@@ -15,7 +15,7 @@ class App extends Component {
                   Infinite Scroll Unsplash Code Challenge
                 </h1>
               </div>
-
+              {/* Render our images here */}
               <Images />
             </div>
           </div>
